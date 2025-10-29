@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba! 👋 Ben Ali Can POLAT</h1>
+<h1 align="center">Merhaba, ben Ali Can POLAT!</h1>
 <h3 align="center">C# ve MySQL Odaklı Backend ve Otomasyon Geliştiricisi</h3>
 
 <p align="center">
